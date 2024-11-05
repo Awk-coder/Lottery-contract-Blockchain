@@ -1,4 +1,4 @@
-#Lottery contract
+# Lottery contract
 
 A simple lottery contract with a psuedo-random-number generator to pick the winner.
 
